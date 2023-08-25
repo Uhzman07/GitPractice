@@ -28,7 +28,9 @@ class MainActivity : ComponentActivity() {
         }
         println("Local change")
         println("me")
-        println("CHANGE 3")
+
+        println("CHANGE 4")
+
         println("This line will be merged")
     }
 }
