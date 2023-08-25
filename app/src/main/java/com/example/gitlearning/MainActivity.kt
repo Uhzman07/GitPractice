@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
         }
         println("Local change")
         println("me")
-        println("CHANGE 1")
+        println("CHANGE 2")
     }
 }
 
