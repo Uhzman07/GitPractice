@@ -26,8 +26,6 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
-        println("This is a commit")
-        today is a good day
     }
 }
 
